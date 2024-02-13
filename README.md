@@ -1,12 +1,17 @@
 # Razer Blade 15” Advanced (2018) | RZ09-02386 (91)
 
+## Screenshots
+
+<img width="1680" alt="Screenshot 2024-02-13 at 13 28 43" src="https://github.com/hoaug-tran/Razer-Blade-15-2018-Advanced-Hackintosh/assets/92006941/11d165ce-74fb-4661-9342-2a1349922bfd">
+
+
 ## Specs
 
-|                  | Specifications                                                                  | macOS 13 Ventura Compatibility                                                                                                                                                                                                                      |
+|                  | Specifications                                                                  | macOS 14 Sonoma Compatibility                                                                                                                                                                                                                      |
 | ---------------: | :------------------------------------------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |        `Chipset` | Mobile Intel HM370                                                              | No issues                                                                                                                                                                                                                                           |
 |            `CPU` | Intel Core i7-8750H processor, 6 Cores / 12 Threads, 2.2GHz / 4.1GHz, 9MB Cache | No issues                                                                                                                                                                                                                                           |
-|         `Memory` | 16GB dual-channel DDR4-2667MHz, up to 32GB                                      | No issues                                                                                                                                                                                                                                           |
+|         `Memory` | 32GB dual-channel DDR4-2667MHz, up to 64GB                                      | No issues                                                                                                                                                                                                                                           |
 |            `GPU` | Intel UHD Graphics 630                                                          | No issues                                                                                                                                                                                                                                           |
 |           `dGPU` | Nvidia GeFore GTX 1070 Max-Q (8GB GDDR5 VRAM)                                   | Nvidia Web Drivers is unsupported macOS on macOS Mojave and later versions so i disabled it by using SSDT-dGPU-Off.aml                                                                                                                              |
 |        `Storage` | Samsung SM961 256GB NVMe M.2                                                    | No issues                                                                                                                                                                                                                                           |
